@@ -15,7 +15,7 @@
     - Tech: Python, Whisper/MacWhisper, Streamlit, NLP  
     - What: Upload audio + transcript; analyze accuracy, lag, error types
 
-#### 🌱 I’m currently learning
+## 🌱 I’m currently learning
 - PyTorch
 - ML & Deep Learning
 
