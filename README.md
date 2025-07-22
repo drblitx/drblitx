@@ -5,12 +5,10 @@
 - Side Project:
 
 ## 🔭 Featured projects
-#### 🙌 For Fun
 - [Patriot Or Not](https://github.com/drblitx/patriot-or-not) - Determines if Patriot player or not during the Brady era (2000-2019) using PyTorch.
 - **IN PROGRESS:** [VolleyViz]() - Upload match stats | see serve %, hitter zones, rally momentum  
 
 ## 🎯 Upcoming projects
-#### 🧠 Accessibility/NLP
 - [Transcription Analyzer](https://github.com/drblitx/transcription-analyzer) — Whisper + error visualizer
     - Tech: Python, Whisper/MacWhisper, Streamlit, NLP  
     - What: Upload audio + transcript; analyze accuracy, lag, error types
