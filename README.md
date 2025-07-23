@@ -1,8 +1,7 @@
 # 👋 Hi there - I'm Emily, a data scientist!
 ## 💻 What I'm working on
-- Building: [VolleyViz](https://github.com/drblitx/volley-viz) - Volleyball-focused statistics app
-- Experimenting: [Transcription Analyzer](https://github.com/drblitx/transcription-analyzer) - Accessibility research tool
-- Side Project: [Jr Year Volleyball Stats](https://github.com/drblitx/jr-yr-stats) - Reconstructing my missing junior year volleyball statsheet using ML
+- Soon Building: [VolleyViz](https://github.com/drblitx/volley-viz) - Volleyball-focused statistics app
+- Experimenting: [Jr Year Volleyball Stats](https://github.com/drblitx/jr-yr-stats) - Reconstructing my missing junior year volleyball statsheet using ML
 
 ## 🔭 Featured projects
 - [Patriot Or Not](https://github.com/drblitx/patriot-or-not) - Determines if Patriot player or not during the Brady era (2000-2019) using PyTorch.
