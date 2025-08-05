@@ -1,6 +1,5 @@
 # 👋 Hi there - I'm Emily, a data scientist!
 ## 💻 What I'm working on
-- Soon Building: [VolleyViz](https://github.com/drblitx/volley-viz) - Volleyball-focused statistics app
 - Experimenting: [Jr Year Volleyball Stats](https://github.com/drblitx/jr-yr-stats) - Reconstructing my missing junior year volleyball statsheet using ML
 
 ## 🔭 Featured projects
