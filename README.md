@@ -1,10 +1,9 @@
 # 👋 Hi there - I'm Emily, a data scientist!
 ## 💻 What I'm working on
-- Experimenting: [Jr Year Volleyball Stats](https://github.com/drblitx/jr-yr-stats) - Reconstructing my missing junior year volleyball statsheet using ML
+- **IN PROGRESS:** [Jr Year Volleyball Stats](https://github.com/drblitx/jr-yr-stats) - Reconstructing my missing junior year volleyball statsheet using ML
 
 ## 🔭 Featured projects
-- [Patriot Or Not](https://github.com/drblitx/patriot-or-not) - Determines if Patriot player or not during the Brady era (2000-2019) using PyTorch.
-- **IN PROGRESS:** [Jr Year Volleyball Stats](https://github.com/drblitx/jr-yr-stats) - Upload personal match stats | see serve %, other stats
+- 
 
 ## 🎯 Upcoming projects
 - [Transcription Analyzer](https://github.com/drblitx/transcription-analyzer) — Whisper + error visualizer
@@ -14,6 +13,9 @@
 ## 🌱 I’m currently learning
 - PyTorch
 - ML & Deep Learning
+
+## 💾 Past projects
+- [Patriot Or Not](https://github.com/drblitx/patriot-or-not) - Determines if Patriot player or not during the Brady era (2000-2019) using PyTorch.
 
 <!--
 **drblitx/drblitx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
