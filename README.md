@@ -1,4 +1,4 @@
-# 👋 Hi there - I'm Emily, a data scientist!
+# 👋 Hi there - I'm drblitx, a data scientist!
 ## 💻 What I'm working on
 - **IN PROGRESS:** [Jr Year Volleyball Stats](https://github.com/drblitx/jr-yr-stats) - Reconstructing my missing junior year volleyball statsheet using ML
 
