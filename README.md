@@ -6,13 +6,10 @@
 - 
 
 ## 🎯 Upcoming projects
-- [Transcription Analyzer](https://github.com/drblitx/transcription-analyzer) — Whisper + error visualizer
-    - Tech: Python, Whisper/MacWhisper, Streamlit, NLP  
-    - What: Upload audio + transcript; analyze accuracy, lag, error types
+-
 
 ## 🌱 I’m currently learning
-- PyTorch
-- ML & Deep Learning
+- 
 
 ## 💾 Past projects
 - [Patriot Or Not](https://github.com/drblitx/patriot-or-not) - Determines if Patriot player or not during the Brady era (2000-2019) using PyTorch.
