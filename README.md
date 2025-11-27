@@ -1,6 +1,6 @@
 # 👋 Hi there - I'm drblitx, a data scientist!
 ## 💻 What I'm working on
-- **IN PROGRESS:** [model-volleyball]([https://github.com/drblitx/jr-yr-stats](https://github.com/drblitx/model-volleyball)) - Exploring my HS volleyball career with data.
+- **IN PROGRESS:** [model-volleyball](https://github.com/drblitx/model-volleyball) - Exploring my HS volleyball career with data.
 
 ## 🔭 Featured projects
 - 
