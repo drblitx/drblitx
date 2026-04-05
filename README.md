@@ -1,10 +1,9 @@
 # 👋 Hi there - I'm drblitx!
 ## 💻 What I'm working on
-- **IN PROGRESS:** [institute-in-basic-data-principles](https://github.com/drblitx/institute-in-basic-data-principles) | Welcome to the IBDP!
+- **IN PROGRESS:**
 
 ## 🔭 Paused projects
 - **IN PROGRESS:** [model-volleyball](https://github.com/drblitx/model-volleyball) | Exploring my HS volleyball career with data.
-- **IN PROGRESS:** [acs-hearing](https://github.com/drblitx/acs-hearing) | Analysis of ACS hearing difficulty data.
 
 ## 🎯 Upcoming projects
 -
