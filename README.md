@@ -1,4 +1,4 @@
-# 👋 Hi there - I'm drblitx!
+# 👋 Hi there, I'm drblitx!
 ## 💻 What I'm working on
 - **IN PROGRESS:**
 
